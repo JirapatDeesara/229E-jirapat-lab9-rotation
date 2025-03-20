@@ -316,7 +316,7 @@ Transform:
   m_GameObject: {fileID: 791907673}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 4.24, z: -17.13}
+  m_LocalPosition: {x: 0, y: 4.8, z: -10.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -469,7 +469,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.20869875, y: 1.67875, z: 11.83}
-  m_LocalScale: {x: 5.389744, y: 3.3575, z: 1}
+  m_LocalScale: {x: 13.645754, y: 3.3575, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -578,7 +578,7 @@ Transform:
   m_GameObject: {fileID: 1224605400}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.87, y: 2.97, z: -10.24}
+  m_LocalPosition: {x: 0.87, y: 2.97, z: 0.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -623,8 +623,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92da889c065cdbe41bd7ddde45e3b65a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocity: {x: 15, y: 0, z: 20}
-  spin: {x: 0, y: 10, z: 0}
+  velocity: {x: 16, y: 0, z: 20}
+  spin: {x: 0, y: 4, z: 0}
 --- !u!1 &1425150868
 GameObject:
   m_ObjectHideFlags: 0
@@ -729,7 +729,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.4759161, y: 1.2563, z: 1.2563}
+  m_LocalScale: {x: 2.4759161, y: 1.2563, z: 3.6024404}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1266,8 +1266,8 @@ SceneRoots:
   - {fileID: 2010399059}
   - {fileID: 1919809608}
   - {fileID: 1425150872}
-  - {fileID: 1224605404}
   - {fileID: 312669139}
   - {fileID: 1765404697}
   - {fileID: 1789843368}
   - {fileID: 1075008221}
+  - {fileID: 1224605404}

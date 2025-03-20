@@ -16,8 +16,8 @@ public class MagnusEffect : MonoBehaviour
             // kick the ball like Roberto Carlos
             Kick();
         //apply magnus effect
-        ApplyMagnusEffect();
         }
+        ApplyMagnusEffect();
     }
 
     void Kick()
